@@ -70,20 +70,36 @@
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200" alt="Footer Animation">
 </div>
 
+
 ---
 
 ## 📸 Photography Gallery
 
-Beyond the terminal, I tell visual stories through my lens. Here’s a glimpse of what I capture:
+Exploring the world through frames.  
+Tap on any photo to view on Instagram.
 
-<div align="center">
-  <a href="https://www.instagram.com/p/CqlQDpbuwIW/" target="_blank"><img src="https://instagram.com/p/CqlQDpbuwIW/media/?size=m" width="250" /></a>
-  <a href="https://www.instagram.com/p/CqggpHcOkzc/" target="_blank"><img src="https://instagram.com/p/CqggpHcOkzc/media/?size=m" width="250" /></a>
-  <a href="https://www.instagram.com/p/Cjx3OGCuR6Q/" target="_blank"><img src="https://instagram.com/p/Cjx3OGCuR6Q/media/?size=m" width="250" /></a>
-</div>
+<a href="https://www.instagram.com/p/DEVh7mcBOmN/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/DHUWEDsOzin/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/DHMdx7JOqIr/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a>
 
-<br/>
+<div align="center" width="200">**Focused Vision. Framed Precision.**<br><sub><i>Where stories begin — behind the lens.</i></sub></div> <div align="center" width="200">📸 Twilight textures & tones</div> <div align="center" width="200">🪶 Light, wind, and a passing moment</div>
 
-📷 More at [@saicharan__pasupuleti](https://www.instagram.com/saicharan__pasupuleti?igsh=aDA0NmZqbmxwcGlj)
+<a href="https://www.instagram.com/p/DGo-u9fuFGk/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/DFZLhnpOUc0/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/DEnszM9O-wB/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a>
+
+<div align="center" width="200">✨ Reflections that speak</div> <div align="center" width="200">🛣️ Empty roads, endless thoughts</div> <div align="center" width="200">⛰️ Stillness before the climb</div>
+
+<a href="https://www.instagram.com/p/DDcUlYWRheE/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/DDfnusxOTQP/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/C_cAn1cOUtv/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a>
+
+<div align="center" width="200">🌇 Sunset silhouettes</div> <div align="center" width="200">🌿 Nature's fine threads</div> <div align="center" width="200">🌁 Urban breath in golden hours</div>
+
+<a href="https://www.instagram.com/p/C_bBgSCPkKZ/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/C6j-CnkuZ7x/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/C5ziIm7uJF4/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a>
+
+<div align="center" width="200">🚗 Motion in pause</div> <div align="center" width="200">🌌 Chill tones & starry frames</div> <div align="center" width="200">🌤️ Everyday contrast</div>
+
+<a href="https://www.instagram.com/p/C54liMsui9a/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/CURdcODBGmU/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/CTYvgbhBMSJ/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a>
+
+<div align="center" width="200">📷 Frame within a frame</div> <div align="center" width="200">🌬️ Light trails & fast minds</div> <div align="center" width="200">🚲 Balance in blur</div>
+
+<a href="https://www.instagram.com/p/CVuFIsghcA4/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/CcUd4LzBzsb/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a> <a href="https://www.instagram.com/p/CfdamvNhRM5/" target="_blank"><img src="https://via.placeholder.com/200x200.png?text=+" width="200"/></a>
+
+<div align="center" width="200">🎨 Composition over chaos</div> <div align="center" width="200">☀️ Light leaks, heart speaks</div> <div align="center" width="200">⛅ Misty mornings, magic shots</div>
 
 ---
