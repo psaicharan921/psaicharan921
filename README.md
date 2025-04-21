@@ -85,3 +85,9 @@ Beyond the terminal, I tell visual stories through my lens. Here’s a glimpse o
 📷 More at [@saicharan__pasupuleti](https://www.instagram.com/saicharan__pasupuleti?igsh=aDA0NmZqbmxwcGlj)
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200" alt="Footer Animation">
+</div>
+
+---
