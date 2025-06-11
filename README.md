@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Cloud%20Engineer-AWS,_DevOps,_Security-00cfc8?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Role"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-137dc5?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://psaicharan921.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-137dc5?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/saicharanpasupuleti/"><img src="https://img.shields.io/badge/LinkedIn-137dc5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
@@ -24,15 +24,18 @@
 ## 🚀 Featured Projects
 
 - ☁️ [AWS Learning Portfolio](https://github.com/psaicharan921/aws-learning-portfolio)
-- 🤖 [Rescue Assisting Robot – EVI](https://github.com/your_repo/evi-rescue-robot)
-- 🎯 [AI-Based Multifunctional Robot Simulation](https://github.com/your_repo/ai-mobile-robot)
-- 🏭 [Vision-Based Industrial Sorting Arm](https://github.com/your_repo/vision-sorting-system)
+- 🤖 [EVI – Rescue Assisting Robot](https://github.com/psaicharan921/evi-rescue-robot)
+- 🎯 [AI-Based Multifunctional Robot Simulation](https://github.com/psaicharan921/ai-mobile-robot)
+- 🏭 [Vision-Based Industrial Sorting Arm](https://github.com/psaicharan921/vision-sorting-system)
+- 🔐 [Flipper Zero Wireless Security](https://github.com/psaicharan921/flipper-zero-security)
+- 📡 [Raspberry Pi Industrial Automation](https://github.com/psaicharan921/pi-industrial-automation)
 
 ---
 
 ## 🛠️ Tools, Tech & Stack
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=flat&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
@@ -41,6 +44,48 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00cfc8?style=flat&logo=raspberry-pi&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-47c5fb?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🏢 Professional Experience
+
+- **Cloud Security Engineer — Hyster-Yale Group, USA (Aug 2023 – Present)**
+  - Managed and deployed secure AWS/Azure cloud infrastructure with Terraform and automation pipelines.
+  - Led migrations, optimized network segmentation, enforced IAM/MFA, and built compliance workflows.
+  - Enabled containerization (Docker/K8s), centralized monitoring, and ran security workshops for agile teams.
+
+- **Cloud Infrastructure Engineer — Rackspace Technology, India (Feb 2021 – May 2022)**
+  - Automated infrastructure provisioning (Terraform, AWS CLI), architected secure VPCs and load balancing.
+  - Centralized CloudWatch logging, enforced IAM/MFA, and scripted compliance and backup routines.
+
+- **IoT Engineer Intern — Expert Hub Industry, India (June 2019 – Dec 2019)**
+  - Developed automation and monitoring with Raspberry Pi, Flask APIs, and IFTTT.
+  - Enhanced remote control, data reliability, and real-time sensor management for IoT systems.
+
+---
+
+## 🎓 Education
+
+- **Master of Science in Information Systems**  
+  Cleveland State University (2022 - 2024)
+- **Bachelor of Technology in Mechatronics**  
+  Hindustan Institute of Technology & Science (2017 - 2021)
+
+---
+
+## 📜 Certifications
+
+- AWS Cloud Technical Essentials
+- Generative AI
+- AI For Everyone
+- AI Engineer
+- AWS Boot-Camp
+- Internet Security: A Hands-on Approach *(In Progress)*
+- AWS Solutions Architect Associate *(In Progress)*
+- AWS Certified Cloud Practitioner *(In Progress)*
 
 ---
 
@@ -53,7 +98,6 @@
 
 ---
 
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -62,11 +106,6 @@
   <a href="https://www.instagram.com/saicharan__pasupuleti?igsh=aDA0NmZqbmxwcGlj"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linktr.ee/pasupuletisaicharan"><img src="https://img.shields.io/badge/Photography_Portfolio-000000?style=for-the-badge&logo=adobe-lightroom&logoColor=white" /></a>
 </div>
-
-
----
-
-
 
 ---
 
