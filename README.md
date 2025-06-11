@@ -21,6 +21,23 @@
 
 ---
 
+## 🏢 Professional Experience
+
+- **Cloud Security Engineer — Hyster-Yale Group, USA (Aug 2023 – Present)**
+  - Managed and deployed secure AWS/Azure cloud infrastructure with Terraform and automation pipelines.
+  - Led migrations, optimized network segmentation, enforced IAM/MFA, and built compliance workflows.
+  - Enabled containerization (Docker/K8s), centralized monitoring, and ran security workshops for agile teams.
+
+- **Cloud Infrastructure Engineer — Rackspace Technology, India (Feb 2021 – May 2022)**
+  - Automated infrastructure provisioning (Terraform, AWS CLI), architected secure VPCs and load balancing.
+  - Centralized CloudWatch logging, enforced IAM/MFA, and scripted compliance and backup routines.
+
+- **IoT Engineer Intern — Expert Hub Industry, India (June 2019 – Dec 2019)**
+  - Developed automation and monitoring with Raspberry Pi, Flask APIs, and IFTTT.
+  - Enhanced remote control, data reliability, and real-time sensor management for IoT systems.
+
+---
+
 ## 🚀 Featured Projects
 
 - ☁️ [AWS Learning Portfolio](https://github.com/psaicharan921/aws-learning-portfolio)
@@ -47,23 +64,6 @@
 ![IoT](https://img.shields.io/badge/IoT-00cfc8?style=flat&logo=raspberry-pi&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-47c5fb?style=flat&logo=github&logoColor=white)
-
----
-
-## 🏢 Professional Experience
-
-- **Cloud Security Engineer — Hyster-Yale Group, USA (Aug 2023 – Present)**
-  - Managed and deployed secure AWS/Azure cloud infrastructure with Terraform and automation pipelines.
-  - Led migrations, optimized network segmentation, enforced IAM/MFA, and built compliance workflows.
-  - Enabled containerization (Docker/K8s), centralized monitoring, and ran security workshops for agile teams.
-
-- **Cloud Infrastructure Engineer — Rackspace Technology, India (Feb 2021 – May 2022)**
-  - Automated infrastructure provisioning (Terraform, AWS CLI), architected secure VPCs and load balancing.
-  - Centralized CloudWatch logging, enforced IAM/MFA, and scripted compliance and backup routines.
-
-- **IoT Engineer Intern — Expert Hub Industry, India (June 2019 – Dec 2019)**
-  - Developed automation and monitoring with Raspberry Pi, Flask APIs, and IFTTT.
-  - Enhanced remote control, data reliability, and real-time sensor management for IoT systems.
 
 ---
 
