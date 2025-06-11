@@ -24,28 +24,28 @@
 ## 🏢 Professional Experience
 
 - **Cloud Security Engineer — Hyster-Yale Group, USA (Aug 2023 – Present)**
- •	Managed and deployed secure cloud infrastructure across AWS and Azure, leveraging Terraform, CloudFormation, and ARM/Bicep templates for provisioning of VMs, VNets, Load Balancers, S3, RDS, and Blob/File Shares.
-•	Led migration of on-prem infrastructure to AWS and Azure, optimizing network segmentation with VPN, VPC, and ExpressRoute, and implementing security policies using Azure Policy, Security Groups and IAM/MFA controls.
-•	Automated identity and access management, enforcing Azure AD, RBAC, IAM, and SSO for secure user and service authentication across hybrid cloud environments.
-•	Designed and implemented AWS Shield protection against OWASP threats and DDOS attacks, standardizing IAM policies and S3 controls to reduce unauthorized access by 30%.
-•	Built Terraform-driven pre-deployment validation within GitHub Actions and CodePipeline, minimizing drift and deployment risk by 40% across distributed cloud systems.
-•	Architected compliance automation using AWS Config, CloudTrail, and Security Hub, integrating Python and Bash pipelines to accelerate remediation of misconfigurations and reduce incident response by 50%.
-•	Centralized monitoring and logging using Azure Monitor, CloudWatch, and CloudTrail for real-time alerting and performance analysis.
-•	Containerized workloads using Docker and Kubernetes, enabling scalable management of cloud-native services.
-•	Led security workshops and synchronized AWS GuardDuty with SIEM, improving team response to threats by 60% and empowering secure agile delivery.
+        - Managed and deployed secure cloud infrastructure across AWS and Azure, leveraging Terraform, CloudFormation, and ARM/Bicep templates for provisioning of VMs, VNets, Load Balancers, S3, RDS, and Blob/File Shares.
+        - Led migration of on-prem infrastructure to AWS and Azure, optimizing network segmentation with VPN, VPC, and ExpressRoute, and implementing security policies using Azure Policy, Security Groups and IAM/MFA controls.
+        - Automated identity and access management, enforcing Azure AD, RBAC, IAM, and SSO for secure user and service authentication across hybrid cloud environments.
+        - Designed and implemented AWS Shield protection against OWASP threats and DDOS attacks, standardizing IAM policies and S3 controls to reduce unauthorized access by 30%.
+        - Built Terraform-driven pre-deployment validation within GitHub Actions and CodePipeline, minimizing drift and deployment risk by 40% across distributed cloud systems.
+        - Architected compliance automation using AWS Config, CloudTrail, and Security Hub, integrating Python and Bash pipelines to accelerate remediation of misconfigurations and reduce incident response by 50%.
+        - Centralized monitoring and logging using Azure Monitor, CloudWatch, and CloudTrail for real-time alerting and performance analysis.
+        - Containerized workloads using Docker and Kubernetes, enabling scalable management of cloud-native services.
+        - Led security workshops and synchronized AWS GuardDuty with SIEM, improving team response to threats by 60% and empowering secure agile delivery.
 
 
 - **Cloud Infrastructure Engineer — Rackspace Technology, India (Feb 2021 – May 2022)**
-  •	Automated infrastructure provisioning and lifecycle management using Terraform and AWS CLI, streamlining the deployment of EC2 instances, subnets, security groups, and S3 buckets, achieving a 45% reduction in manual effortwhile implementing reusable modules for consistent, error-free deployments.
-•	Architected secure VPC environments with NAT gateways, custom route tables, and Elastic Load Balancers, optimizing network segmentation, enhancing data throughput by 30%, and integrating Route 53 for fault-tolerant routing and latency reduction, resulting in a 30% improvement in application responsiveness.
-•	Implemented IAM policies, MFA configurations, and AWS Organizations governance, enforcing centralized security controls across multiple accounts, reducing unauthorized access incidents by 40%, while developing Python and Bash scripts for compliance scans, backups, and resource cleanup, contributing to a 20% cost savings.
-•	Centralized log aggregation with CloudWatch Logs and anomaly detection alerts, enhancing real-time monitoring and incident response by 50%, while collaborating with application, QA, and security teams to align infrastructure rollouts with release cycles, authoring comprehensive runbooks and setup guides to facilitate seamless knowledge transfer.
+        - Automated infrastructure provisioning and lifecycle management using Terraform and AWS CLI, streamlining the deployment of EC2 instances, subnets, security groups, and S3 buckets, achieving a 45% reduction in manual effortwhile implementing reusable modules for consistent, error-free deployments.
+        - Architected secure VPC environments with NAT gateways, custom route tables, and Elastic Load Balancers, optimizing network segmentation, enhancing data throughput by 30%, and integrating Route 53 for fault-tolerant routing and latency reduction, resulting in a 30% improvement in application responsiveness.
+        - Implemented IAM policies, MFA configurations, and AWS Organizations governance, enforcing centralized security controls across multiple accounts, reducing unauthorized access incidents by 40%, while developing Python and Bash scripts for compliance scans, backups, and resource cleanup, contributing to a 20% cost savings.
+        - Centralized log aggregation with CloudWatch Logs and anomaly detection alerts, enhancing real-time monitoring and incident response by 50%, while collaborating with application, QA, and security teams to align infrastructure rollouts with release cycles, authoring comprehensive runbooks and setup guides to facilitate seamless knowledge transfer.
 
 
 - **IoT Engineer Intern — Expert Hub Industry, India (June 2019 – Dec 2019)**
- •	Enhanced device performance and implemented automation capabilities by configuring Raspberry Pi 3 and 4 for secure remote access and network control, utilizing IFTTT applications to enable real-time monitoring, sensor data acquisition.
-•	Optimized power usage and system responsiveness by analyzing resource metrics and deploying real-time alerts for sensor data processing, ensuring seamless communication and automation across IoT nodes.
-•	Developed and deployed Flask APIs on Raspberry Pi running Linux, enabling remote sensor control and automated health monitoring via Python and Bash, which improved uptime and stabilized network reliability.
+        - Enhanced device performance and implemented automation capabilities by configuring Raspberry Pi 3 and 4 for secure remote access and network control, utilizing IFTTT applications to enable real-time monitoring, sensor data acquisition.
+        - Optimized power usage and system responsiveness by analyzing resource metrics and deploying real-time alerts for sensor data processing, ensuring seamless communication and automation across IoT nodes.
+        - Developed and deployed Flask APIs on Raspberry Pi running Linux, enabling remote sensor control and automated health monitoring via Python and Bash, which improved uptime and stabilized network reliability.
 
 
 ---
