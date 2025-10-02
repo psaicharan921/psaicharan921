@@ -42,10 +42,7 @@
 ---
 
 ## 🚀 Featured Projects
-
-- 🤖 [Vision-Based Industrial Sorting Arm](https://github.com/psaicharan921/vision-sorting-system)  
-- 🚗 [Self-Driving Car Simulator](https://github.com/psaicharan921/ai-mobile-robot)  
-- 🤖 [EVI – Rescue Assisting Robot](https://github.com/psaicharan921/evi-rescue-robot)  
+ 
 - ☁️ [AWS Learning Portfolio](https://github.com/psaicharan921/aws-learning-portfolio)  
 - 📡 [Raspberry Pi Industrial Automation](https://github.com/psaicharan921/pi-industrial-automation)  
 - 🔐 [Flipper Zero Wireless Security](https://github.com/psaicharan921/flipper-zero-security)  
