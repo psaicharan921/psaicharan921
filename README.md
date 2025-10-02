@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00cfc8&center=true&vCenter=true&width=600&height=70&lines=Sai+Charan+Pasupuleti" alt="Typing Banner" />
-  <h2><span>Bridging Cloud, Code & Control Systems</span></h2>
+  <h2><span>Bridging Robotics, Cloud & Control Systems</span></h2>
 </div>
 
 <div align="center">
@@ -8,84 +8,86 @@
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Cloud%20Engineer-AWS,_DevOps,_Security-00cfc8?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Role"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Robotics%20Engineer-ROS2,_IoT,_Controls-00cfc8?style=for-the-badge&logo=robotframework&logoColor=white" alt="Role"/></a>
   <a href="https://psaicharan921.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-137dc5?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/saicharanpasupuleti/"><img src="https://img.shields.io/badge/LinkedIn-137dc5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" alt="Banner">
 </div>
 
 ---
 
 ## 🏢 Professional Experience
 
-- **Cloud Security Engineer — Hyster-Yale Group, USA (Aug 2023 – Present)**
-  - Managed and deployed secure AWS/Azure cloud infrastructure with Terraform and automation pipelines.
-  - Led migrations, optimized network segmentation, enforced IAM/MFA, and built compliance workflows.
-  - Enabled containerization (Docker/K8s), centralized monitoring, and ran security workshops for agile teams.
+- **Controls Tech II — LogistiQ / Amazon ADTA (Aug 2025 – Sept 2025)**  
+  - Installed and commissioned **480V MCP feeds, VFDs, RIO cards, estops, HMIs, and photo-eyes** for ADTA sortation systems.  
+  - Configured **RIO IPs (Ethernet/IP Explorer)** and calibrated sensors for divert accuracy, jam prevention, and gap sensing.  
+  - Conducted **IOQ, VQ, and SAT testing**, validating estops, motor ops, and package detection.  
+  - Supported **burnout testing (30%, 60%, 100%)**, monitoring throughput and error metrics via CloudWatch and RME dashboards.  
 
-- **Cloud Infrastructure Engineer — Rackspace Technology, India (Feb 2021 – May 2022)**
-  - Automated infrastructure provisioning (Terraform, AWS CLI), architected secure VPCs and load balancing.
-  - Centralized CloudWatch logging, enforced IAM/MFA, and scripted compliance and backup routines.
+- **Controls Engineer — Vecna Robotics (July 2023 – Aug 2025)**  
+  - Designed and deployed **ROS2-based navigation systems** with SLAM, LiDAR, odometry, and PID control.  
+  - Configured robotic platforms (Ubuntu, Raspberry Pi) for device integration via SPI/I2C/GPIO.  
+  - Deployed and validated navigation/vision stacks in **Gazebo and Webots**.  
+  - **Project – Colour-Based Sorting Robot:** Built a **6-DoF Kinova JACO2 manipulator** with MoveIt and blob detection for high-accuracy sorting.  
 
-- **IoT Engineer Intern — Expert Hub Industry, India (June 2019 – Dec 2019)**
-  - Developed automation and monitoring with Raspberry Pi, Flask APIs, and IFTTT.
-  - Enhanced remote control, data reliability, and real-time sensor management for IoT systems.
+- **Robotics Simulation Engineer — Vecna Robotics (May 2021 – June 2022)**  
+  - Developed **ROS & Webots simulation-based control systems** with CNN driving models for autonomous navigation.  
+  - Performed **SIL/HIL testing** to validate steering accuracy, obstacle response, and latency.  
+  - **Project – Self-Driving Car Simulator:** Trained CNNs on 13,000+ frames (Udacity simulator) for **end-to-end steering prediction** and integrated object recognition and leader-follower logic.  
+
+- **IoT Engineer Intern — Expert Hub Industry, India (June 2019 – Dec 2019)**  
+  - Configured **Raspberry Pi 3/4** for remote access and real-time IoT monitoring.  
+  - Built **Flask APIs** for remote sensor control, health monitoring, and automation.  
+  - Automated data processing pipelines using **Python & Bash**, improving uptime and stability.  
 
 ---
 
 ## 🚀 Featured Projects
 
-- ☁️ [AWS Learning Portfolio](https://github.com/psaicharan921/aws-learning-portfolio)
-- 🤖 [EVI – Rescue Assisting Robot](https://github.com/psaicharan921/evi-rescue-robot)
-- 🎯 [AI-Based Multifunctional Robot Simulation](https://github.com/psaicharan921/ai-mobile-robot)
-- 🏭 [Vision-Based Industrial Sorting Arm](https://github.com/psaicharan921/vision-sorting-system)
-- 🔐 [Flipper Zero Wireless Security](https://github.com/psaicharan921/flipper-zero-security)
-- 📡 [Raspberry Pi Industrial Automation](https://github.com/psaicharan921/pi-industrial-automation)
+- 🤖 [Vision-Based Industrial Sorting Arm](https://github.com/psaicharan921/vision-sorting-system)  
+- 🚗 [Self-Driving Car Simulator](https://github.com/psaicharan921/ai-mobile-robot)  
+- 🤖 [EVI – Rescue Assisting Robot](https://github.com/psaicharan921/evi-rescue-robot)  
+- ☁️ [AWS Learning Portfolio](https://github.com/psaicharan921/aws-learning-portfolio)  
+- 📡 [Raspberry Pi Industrial Automation](https://github.com/psaicharan921/pi-industrial-automation)  
+- 🔐 [Flipper Zero Wireless Security](https://github.com/psaicharan921/flipper-zero-security)  
 
 ---
 
 ## 🛠️ Tools, Tech & Stack
 
+![ROS](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-808080?style=flat&logo=ros&logoColor=white)
+![Webots](https://img.shields.io/badge/Webots-22314E?style=flat&logo=ros&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=flat&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00cfc8?style=flat&logo=raspberry-pi&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-47c5fb?style=flat&logo=github&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00cfc8?style=flat&logo=internet-of-things&logoColor=white)
 
 ---
 
 ## 🎓 Education
 
 - **Master of Science in Information Systems**  
-  Cleveland State University (2022 - 2024)
+  Cleveland State University (2022 - 2024)  
 - **Bachelor of Technology in Mechatronics**  
-  Hindustan Institute of Technology & Science (2017 - 2021)
+  Hindustan Institute of Technology & Science (2017 - 2021)  
 
 ---
 
 ## 📜 Certifications
 
-- AWS Cloud Technical Essentials
-- Generative AI
-- AI For Everyone
-- AI Engineer
-- AWS Boot-Camp
-- Internet Security: A Hands-on Approach *(In Progress)*
-- AWS Solutions Architect Associate *(In Progress)*
-- AWS Certified Cloud Practitioner *(In Progress)*
+- OSHA Silica in Construction (2025)  
+- Amazon Virtual Contractor Safety Orientation (2025)  
+- CPR/AED/First-Aid Certified (Valid till 2027)  
+- AWS Cloud Technical Essentials  
+- Generative AI, AI For Everyone, AI Engineer  
+- AWS Solutions Architect Associate *(In Progress)*  
+- AWS Certified Cloud Practitioner *(In Progress)*  
 
 ---
 
@@ -95,38 +97,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=psaicharan921&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=psaicharan921&theme=tokyonight&hide_border=true" height="180">
 </div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/saicharanpasupuleti/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saicharanpasupuleti8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/saicharan__pasupuleti?igsh=aDA0NmZqbmxwcGlj"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linktr.ee/pasupuletisaicharan"><img src="https://img.shields.io/badge/Photography_Portfolio-000000?style=for-the-badge&logo=adobe-lightroom&logoColor=white" /></a>
-</div>
-
----
-
-## 📸 Photography Gallery
-
-Beyond the terminal, I tell visual stories through my lens. Here’s a glimpse of what I capture:
-
-<div align="center">
-  <a href="https://www.instagram.com/p/CqlQDpbuwIW/" target="_blank"><img src="https://instagram.com/p/CqlQDpbuwIW/media/?size=m" width="250" /></a>
-  <a href="https://www.instagram.com/p/CqggpHcOkzc/" target="_blank"><img src="https://instagram.com/p/CqggpHcOkzc/media/?size=m" width="250" /></a>
-  <a href="https://www.instagram.com/p/Cjx3OGCuR6Q/" target="_blank"><img src="https://instagram.com/p/Cjx3OGCuR6Q/media/?size=m" width="250" /></a>
-</div>
-
-<br/>
-
-📷 More at [@saicharan__pasupuleti](https://www.instagram.com/saicharan__pasupuleti?igsh=aDA0NmZqbmxwcGlj)
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200" alt="Footer Animation">
-</div>
-
----
