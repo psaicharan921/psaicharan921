@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2800&pause=1000&color=00cfc8&center=true&vCenter=true&width=700&height=70&lines=Sai+Charan+Pasupuleti;Robotics+%7C+Controls+%7C+IoT+%7C+Cloud;Engineer+Building+Automation+%26+AI+Systems" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2800&pause=1000&color=00cfc8&center=true&vCenter=true&width=700&height=70&lines=Sai+Charan+Pasupuleti;Robotics+%7C+Controls+%7C+IoT+%7C+Cloud" alt="Typing Banner" />
 </div>
 
 <!-- Profile Picture -->
@@ -58,13 +58,13 @@
 ---
 
 ### 🔐 Flipper Zero Wireless Security  
-[![Flipper Banner](https://media.giphy.com/media/l41YvpiF5L9W6ztMA/giphy.gif)](https://github.com/psaicharan921/flipper-zero-security)  
+[![Flipper Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVwYmpueW00Zmxub3p5enR6NTNvZTgyaHdheXBnMnB0N3p6ZHBycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j6NaTTkaqWS6RoV3qt/giphy.gif)](https://github.com/psaicharan921/flipper-zero-security)  
 **What I Did:** Explored **IoT and wireless security** using Flipper Zero with custom firmware, testing RFID, NFC, and IR vulnerabilities.  
 
 ---
 
 ### 📡 Raspberry Pi Industrial Automation  
-[![Raspberry Pi Banner](https://media.giphy.com/media/XbJ0i63UozoYc/giphy.gif)](https://github.com/psaicharan921/pi-industrial-automation)  
+[![Raspberry Pi Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVwYmpueW00Zmxub3p5enR6NTNvZTgyaHdheXBnMnB0N3p6ZHBycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26gR2qGRnxxXAvhBu/giphy.gif)](https://github.com/psaicharan921/pi-industrial-automation)  
 **What I Did:** Built **automation pipelines** with Raspberry Pi 4, Flask APIs, and IFTTT for real-time monitoring, power optimization, and remote sensor control.  
 
 ---
@@ -94,7 +94,7 @@
 ---
 
 ## 📜 Certifications
-<img align="right" alt="Certification" width="220" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"/>
+<img align="right" alt="Certification" width="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3p0Y2M2ajByamVneDFrZXM3empkdmQ4Y3Y0NHB4Y2wzeWE1ZDZiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lnR3gpBHF5YUCwfn2/giphy.gif"/>
 
 - OSHA Silica in Construction *(2025)*  
 - Amazon Virtual Contractor Safety Orientation *(2025)*  
