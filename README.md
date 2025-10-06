@@ -27,7 +27,6 @@
 ---
 
 ## 🏢 Professional Experience
-<img align="right" alt="Automation" width="240" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 - **Controls Tech II — LogistiQ / Amazon ADTA** *(Aug 2025 – Sept 2025)*  
   Installed & commissioned ADTA sortation systems (**MCPs, VFDs, RIOs, estops, HMIs**), configured **Ethernet/IP**, ran **IOQ/VQ/SAT testing**, and supported **burnout validation (30%, 60%, 100%)** ensuring operational readiness.  
@@ -40,7 +39,8 @@
   Developed **CNN-based driving models** in Webots/Udacity simulators, validated via **SIL/HIL**, and integrated object detection & leader-follower logic into ROS2 pipelines.  
 
 - **IoT Engineer Intern — Expert Hub Industry** *(June 2019 – Dec 2019)*  
-  Configured **Raspberry Pi 3/4** for IoT automation, deployed **Flask APIs**, and automated remote monitoring & control with Python/Bash and IFTTT workflows.  
+  Configured **Raspberry Pi 3/4** for IoT automation, deployed **Flask APIs**, and automated remote monitoring & control with Python/Bash and IFTTT workflows.
+  <img align="right" alt="Automation" width="240" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>  
 
 ---
 
