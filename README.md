@@ -32,11 +32,11 @@
 - **Controls Tech II — LogistiQ / Amazon ADTA** *(Aug 2025 – Sept 2025)*  
   Installed & commissioned ADTA sortation systems (**MCPs, VFDs, RIOs, estops, HMIs**), configured **Ethernet/IP**, ran **IOQ/VQ/SAT testing**, and supported **burnout validation (30%, 60%, 100%)** ensuring operational readiness.  
 
-- **Controls Engineer — Vecna Robotics** *(July 2023 – Aug 2025)*  
+- **Controls Engineer — Bastian Solutions** *(July 2023 – Aug 2025)*  
   Designed **ROS2-based navigation systems**, deployed control stacks in **Gazebo/Webots**, and integrated telemetry with **AWS IoT**.  
   Built a **Kinova JACO2 manipulator** project for real-time robotic automation.  
 
-- **Robotics Simulation Engineer — Vecna Robotics** *(May 2021 – June 2022)*  
+- **Robotics Simulation Engineer — TCS ION** *(May 2021 – June 2022)*  
   Developed **CNN-based driving models** in Webots/Udacity simulators, validated via **SIL/HIL**, and integrated object detection & leader-follower logic into ROS2 pipelines.  
 
 - **IoT Engineer Intern — Expert Hub Industry** *(June 2019 – Dec 2019)*  
