@@ -10,15 +10,14 @@
 
 <!-- Badges -->
 <div align="center">
-  <a href="https://psaicharan921.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-137dc5?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/saicharanpasupuleti/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:saicharanpasupuleti8@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://psaicharan921.github.io/"><img src="https://img.shields.io/badge/Portfolio-137dc5?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/saicharanpasupuleti/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:saicharanpasupuleti8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-<img align="right" alt="Coding Robot" width="220" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 🔹 **Robotics & Embedded Systems Engineer** with 4+ years of experience in **autonomous systems, industrial automation, IoT, and cloud robotics**.  
 🔹 Hands-on with **Amazon ADTA sortation systems**, **ROS2 navigation**, **PLC/VFD controls**, and **IoT-cloud integration**.  
@@ -40,12 +39,11 @@
 
 - **IoT Engineer Intern — Expert Hub Industry** *(June 2019 – Dec 2019)*  
   Configured **Raspberry Pi 3/4** for IoT automation, deployed **Flask APIs**, and automated remote monitoring & control with Python/Bash and IFTTT workflows.
-  <img align="right" alt="Automation" width="240" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>  
+
 
 ---
 
 ## 🚀 Featured Projects
-<img align="right" alt="Robotics Showcase" width="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ✨ A glimpse into my recent engineering projects. Click below to explore each repository.  
 
@@ -86,7 +84,6 @@
 ---
 
 ## 🎓 Education
-<img align="right" alt="Study GIF" width="220" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>
 
 - **M.S. in Information Systems** — Cleveland State University (2022 - 2024)  
 - **B.Tech. in Mechatronics** — Hindustan Institute of Technology & Science (2017 - 2021)  
