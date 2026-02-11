@@ -33,26 +33,26 @@
 
 ## 🏢 Professional Experience
 
-### ICS / SCADA Support Engineer — Enbridge, Cleveland, OH *(Jan 2026 – Present)*
+### ICS / SCADA Support Engineer — Enbridge, Cleveland, OH
 - Support Gas Control SCADA, ensuring secure and reliable communication between control centers and remote field sites.  
 - Manage AVEVA SCADA via ADE (IP updates, adding/removing remote sites, controlled reboots) and troubleshoot HMI errors to maintain process visibility and uptime.  
 - Validate gas control data using Measurement Advisor and administer access via Active Directory and Network Management Console in line with OT cybersecurity policies.  
 
-### Control Engineer — LogistiQ, Port Clinton, OH *(Aug 2025 – Dec 2025)*
+### Control Engineer — LogistiQ, Port Clinton, OH
 - Developed and tuned PLC logic for conveyor zones, merges, and sortation equipment, stabilizing timing, interlocks, and material flow.  
 - Performed full I/O verification, wiring validation, and device integration (motors, drives, sensors, safety devices) to remove bottlenecks and jam-prone areas.  
 - Verified safety circuits and ensured commissioning practices complied with OSHA and NFPA 70E requirements.  
 
-### Controls Engineer — Bastian Solutions, Cincinnati, OH *(July 2023 – Aug 2025)*
+### Controls Engineer — Bastian Solutions, Cincinnati, OH
 - Designed PLC logic, interlocks, and motion sequences for material-handling machinery to achieve predictable and fault-tolerant operation.  
 - Tuned drive parameters (ramps, speeds, torque thresholds) to improve motion quality and reduce mechanical stress, while analyzing downtime to eliminate recurring faults.  
 - Executed safety verification (E‑stops, guard interlocks, zone safety) and supported field commissioning and end‑user handover.  
 
-### Robotics Simulation Engineer — TCS ION, Pune, IN *(May 2021 – June 2022)*
+### Robotics Simulation Engineer — TCS ION, Pune, IN
 - Built virtual automation environments and control logic to simulate full machine sequences, detecting timing and interlock issues before deployment.  
 - Validated fail-safe behavior, shutdown and recovery sequences, and abnormal operating scenarios to ensure predictable and safe responses.  
 
-### Automation Engineer — Expert Hub Industry, TN, India *(June 2019 – Dec 2019)*
+### Automation Engineer — Expert Hub Industry, TN, India
 - Integrated sensors, actuators, and field devices into small-scale automation and monitoring systems, ensuring consistent signal behavior.  
 - Validated wiring and signal paths, resolving noise and connection issues, and documenting system behavior for maintenance and future design updates.  
 
